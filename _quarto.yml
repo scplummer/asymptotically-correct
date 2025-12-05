@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Asymptotically Correct"
+  execute:
+    eval: true
   description: "Research notes on singular learning theory, variational inference, fairness, and more."
   site-url: "https://scplummer.github.io/asymptotically-correct"
   navbar:
@@ -17,7 +19,7 @@ website:
       - href: about.qmd
         text: "About"
   page-footer:
-    left: "© `r format(Sys.Date(), '%Y')` Sean Plummer"
+    left: "© {{< year >}} Sean Plummer"
     right: "Built with Quarto · Asymptotically Correct"
 
 format:
