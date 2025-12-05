@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Sean Plummer, an applied mathematician/statistician working on:\n\nsingular learning theory and Bayesian asymptotics\n\ngeometry-aware variational inference\n\nfairness in statistical and machine learning models\n\nstatistical principles for understanding and evaluating LLMs — from generalization and uncertainty to fairness and reliability\n\nThis site, Asymptotically Correct, is named after our grad school trivia team and doubles as my evolving research notebook."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A non-exhaustive subset of things I’m thinking about:\n\nThermodynamic SLT — phase transitions, finite-temperature corrections, singular fluctuation.\n\nGeometry-aware VI — SIVI, structured VI, α-VB, and SLT-inspired risk bounds.\n\nGlobal fairness — invariance-based fairness functionals and counterexamples to local criteria.\n\nSpatial & network models — SDM-CAR priors, AME models, and scalable inference.\n\nNLP / LLMs — RAG, evaluation, and fairness / reliability in HR analytics."
+  },
+  {
+    "objectID": "posts/slt/foundations/rlct.html",
+    "href": "posts/slt/foundations/rlct.html",
+    "title": "Real Log Canonical Thresholds (RLCT)",
+    "section": "",
+    "text": "Real Log Canonical Thresholds (RLCT)\nThis page will collect notes on the Real Log Canonical Threshold (RLCT),\na central quantity in Singular Learning Theory governing the asymptotic behavior of the marginal likelihood and free energy.\nTopics to be added:\n\ndefinition of RLCT via zeta functions\n\nbasic examples (mixtures, reduced rank regression, neural networks)\n\nconnection to learning coefficients\n\nrole in generalization error and asymptotic expansions\n\nMore details coming soon."
+  },
+  {
+    "objectID": "posts/slt/index.html",
+    "href": "posts/slt/index.html",
+    "title": "Foundations of Singular Learning Theory",
+    "section": "",
+    "text": "This section collects introductory and core material on the foundations of Singular Learning Theory (SLT).\nThese pages serve as lightweight notes, definitions, and references for concepts that appear throughout the SLT posts.\n\n\n\nReal Log Canonical Thresholds (RLCT)\nZeta functions and singularities\nResolution of singularities\nAsymptotic forms of the free energy and marginal likelihood\nBasic examples from Watanabe (e.g., normal mixture, reduced rank regression)\n\n\n\n\nUse the sidebar on the left to explore individual topics as they are added.\n\nThis page is a placeholder so the section can render correctly while posts are added incrementally."
+  },
+  {
+    "objectID": "posts/slt/index.html#topics-included-here",
+    "href": "posts/slt/index.html#topics-included-here",
+    "title": "Foundations of Singular Learning Theory",
+    "section": "",
+    "text": "Real Log Canonical Thresholds (RLCT)\nZeta functions and singularities\nResolution of singularities\nAsymptotic forms of the free energy and marginal likelihood\nBasic examples from Watanabe (e.g., normal mixture, reduced rank regression)"
+  },
+  {
+    "objectID": "posts/slt/index.html#navigation",
+    "href": "posts/slt/index.html#navigation",
+    "title": "Foundations of Singular Learning Theory",
+    "section": "",
+    "text": "Use the sidebar on the left to explore individual topics as they are added.\n\nThis page is a placeholder so the section can render correctly while posts are added incrementally."
+  },
+  {
+    "objectID": "posts/slt/foundations/zeta.html",
+    "href": "posts/slt/foundations/zeta.html",
+    "title": "Zeta Functions and Singularities",
+    "section": "",
+    "text": "Zeta Functions in Singular Learning Theory\nThis page will collect definitions and examples of the zeta function\n[ (z) = K(w)^z (w),dw, ] which plays a key role in determining the RLCT and generalizing the notion of model complexity in singular learning settings.\nTopics to be added:\n\ndefinition and analytic continuation\n\npoles and their multiplicities\n\nrelationship with the RLCT\n\nexamples from mixture models and low-rank models\n\nMore notes coming soon."
+  },
+  {
+    "objectID": "posts/slt/foundations/resolution.html",
+    "href": "posts/slt/foundations/resolution.html",
+    "title": "Resolution of Singularities",
+    "section": "",
+    "text": "Resolution of Singularities\nThis page will summarize the basic tools from algebraic geometry used\nto analyze singular statistical models via resolution maps.\nTopics to be added:\n\nblow-ups and local coordinates\n\nhow resolution simplifies the Kullback–Leibler landscape\n\nJacobian factors and transformed likelihood\n\nthe role of resolution in computing the RLCT\n\nsimple illustrative examples\n\nMore details will be filled in as the notes develop."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Asymptotically Correct",
+    "section": "",
+    "text": "Welcome to Asymptotically Correct — my long-form research notebook.\nI use this site to collect:\n\nworking notes on singular learning theory (SLT) and its thermodynamic view\n\nexperiments in variational inference (SIVI, structured VI, α-VB, etc.)\n\nwork on fair learning\n\napplied and computational notes in NLP / LLMs / RAG\n\nAll content on this site reflects ongoing research in draft form. No statement, proof, or claim should be interpreted as finalized, peer-reviewed, or guaranteed to be correct.\nIntellectual ownership of the ideas remains fully with the author unless explicitly stated otherwise."
+  }
+]
