@@ -1,0 +1,26 @@
+{
+  "posts/slt/foundations/index.qmd": {
+    "index.html": "c9c5fb75"
+  },
+  "posts/slt/foundations/zeta.qmd": {
+    "zeta.html": "beafae9e"
+  },
+  "posts/slt/foundations/rlct.qmd": {
+    "rlct.html": "619c02e7"
+  },
+  "posts/slt/foundations/resolution.qmd": {
+    "resolution.html": "a109fe4d"
+  },
+  "projects.qmd": {
+    "projects.html": "18e876e5"
+  },
+  "index.qmd": {
+    "index.html": "47059e31"
+  },
+  "about.qmd": {
+    "about.html": "e9d659e9"
+  },
+  "posts/slt/index.qmd": {
+    "index.html": "ad35a318"
+  }
+}

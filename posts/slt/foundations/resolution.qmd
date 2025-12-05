@@ -1,0 +1,20 @@
+---
+title: "Resolution of Singularities"
+categories: [slt, resolution]
+tags: [resolution, geometry, rlct]
+---
+
+# Resolution of Singularities
+
+This page will summarize the basic tools from algebraic geometry used  
+to analyze singular statistical models via resolution maps.
+
+Topics to be added:
+
+- blow-ups and local coordinates  
+- how resolution simplifies the Kullback–Leibler landscape  
+- Jacobian factors and transformed likelihood  
+- the role of resolution in computing the RLCT  
+- simple illustrative examples
+
+More details will be filled in as the notes develop.

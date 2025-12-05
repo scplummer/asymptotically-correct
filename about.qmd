@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+I'm Sean Plummer, an applied mathematician/statistician working on:
+
+- singular learning theory and Bayesian asymptotics  
+- geometry-aware variational inference  
+- fairness in statistical and machine learning models  
+- statistical principles for understanding and evaluating LLMs — from generalization and uncertainty to fairness and reliability
+
+This site, **Asymptotically Correct**, is named after our grad school trivia team and doubles as my evolving research notebook.

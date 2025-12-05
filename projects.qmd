@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+A non-exhaustive subset of things I’m thinking about:
+
+- **Thermodynamic SLT** — phase transitions, finite-temperature corrections, singular fluctuation.  
+- **Geometry-aware VI** — SIVI, structured VI, α-VB, and SLT-inspired risk bounds.  
+- **Global fairness** — invariance-based fairness functionals and counterexamples to local criteria.  
+- **Spatial & network models** — SDM-CAR priors, AME models, and scalable inference.  
+- **NLP / LLMs** — RAG, evaluation, and fairness / reliability in HR analytics.

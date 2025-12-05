@@ -1,0 +1,22 @@
+---
+title: "Zeta Functions and Singularities"
+categories: [slt, zeta]
+tags: [zeta, singularities, rlct]
+---
+
+# Zeta Functions in Singular Learning Theory
+
+This page will collect definitions and examples of the zeta function  
+\[
+\zeta(z) = \int K(w)^z \varphi(w)\,dw,
+\]
+which plays a key role in determining the RLCT and generalizing the notion of model complexity in singular learning settings.
+
+Topics to be added:
+
+- definition and analytic continuation  
+- poles and their multiplicities  
+- relationship with the RLCT  
+- examples from mixture models and low-rank models  
+
+More notes coming soon.

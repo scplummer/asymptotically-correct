@@ -1,0 +1,17 @@
+---
+title: "Asymptotically Correct"
+subtitle: "Notes on singular learning theory, variational inference, fairness, and friends."
+---
+
+Welcome to **Asymptotically Correct** — my long-form research notebook.
+
+I use this site to collect:
+
+- working notes on **singular learning theory (SLT)** and its thermodynamic view  
+- experiments in **variational inference** (SIVI, structured VI, α-VB, etc.)  
+- work on **fair learning**   
+- applied and computational notes in **NLP / LLMs / RAG**  
+
+All content on this site reflects ongoing research in draft form. No statement, proof, or claim should be interpreted as finalized, peer-reviewed, or guaranteed to be correct.
+
+Intellectual ownership of the ideas remains fully with the author unless explicitly stated otherwise.

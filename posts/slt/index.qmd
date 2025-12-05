@@ -1,0 +1,25 @@
+---
+title: "Foundations of Singular Learning Theory"
+categories: [slt]
+---
+
+# Foundations of Singular Learning Theory
+
+This section collects introductory and core material on the foundations of Singular Learning Theory (SLT).  
+These pages serve as lightweight notes, definitions, and references for concepts that appear throughout the SLT posts.
+
+## Topics included here
+
+- Real Log Canonical Thresholds (RLCT)
+- Zeta functions and singularities
+- Resolution of singularities
+- Asymptotic forms of the free energy and marginal likelihood
+- Basic examples from Watanabe (e.g., normal mixture, reduced rank regression)
+
+## Navigation
+
+Use the sidebar on the left to explore individual topics as they are added.
+
+---
+
+This page is a placeholder so the section can render correctly while posts are added incrementally.

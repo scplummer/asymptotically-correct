@@ -1,0 +1,19 @@
+---
+title: "Real Log Canonical Thresholds (RLCT)"
+categories: [slt, rlct]
+tags: [rlct, singularities, asymptotics]
+---
+
+# Real Log Canonical Thresholds (RLCT)
+
+This page will collect notes on the Real Log Canonical Threshold (RLCT),  
+a central quantity in Singular Learning Theory governing the asymptotic behavior of the marginal likelihood and free energy.
+
+Topics to be added:
+
+- definition of RLCT via zeta functions  
+- basic examples (mixtures, reduced rank regression, neural networks)  
+- connection to learning coefficients  
+- role in generalization error and asymptotic expansions  
+
+More details coming soon.
